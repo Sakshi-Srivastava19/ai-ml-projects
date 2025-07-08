@@ -36,7 +36,7 @@ def recommend(movie):
     return recommended_movies, recommended_posters
 
 # Load data
-movies_dict = pickle.load(open('movie_dict.pkl', 'rb'))
+movies_dict = pickle.load(open('movie_list.pkl', 'rb'))
 movies = pd.DataFrame(movies_dict)
 similarity = pickle.load(open('similarity.pkl', 'rb'))
 
