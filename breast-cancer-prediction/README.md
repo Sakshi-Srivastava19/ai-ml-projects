@@ -3,7 +3,7 @@
 This is a web app built with **Streamlit** that predicts whether a breast tumor is **Benign (non-cancerous)** or **Malignant (cancerous)** using a **Logistic Regression** model trained on the Breast Cancer Wisconsin dataset.
 
 ---
-## link of app
+## link of app: https://breast-cancer-ezcuswhwksvaskj4c4moxh.streamlit.app/
 
 ## 🚀 Features
 
@@ -48,5 +48,83 @@ Each feature represents a measurement extracted from cell nuclei images in breas
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/breast-cancer-streamlit.git
+git clone https://github.com/YOUR_USERNAME/breast-cancer-prediction.git
 cd breast-cancer-streamlit
+```
+
+### 2️⃣ Create Virtual Environment (Optional but Recommended)
+
+```bash
+python -m venv venv
+source venv/bin/activate        # For Linux/Mac
+venv\Scripts\activate           # For Windows
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4️⃣ Run the App
+```bash
+streamlit run app.py
+
+```
+
+## 🧠 Model Details
+
+Algorithm: Logistic Regression
+
+Preprocessing: StandardScaler
+
+Dataset: Breast Cancer Wisconsin (Diagnostic)
+
+Target Classes:
+
+0 → Benign
+
+1 → Malignant
+
+## 🚀 Deployment
+
+This app is deployed using Streamlit Community Cloud.
+
+To deploy your own version:
+
+Push code to GitHub
+
+Go to https://streamlit.io/cloud
+
+Select repo → app.py
+
+Click Deploy
+
+## 📌 Tech Stack
+
+Python
+
+Streamlit
+
+scikit-learn
+
+NumPy
+
+Pandas
+
+Pickle
+
+### 👩‍💻 Author
+
+Sakshi
+📊 Data Science & AI Enthusiast
+
+## ⭐ Acknowledgements
+
+UCI Machine Learning Repository
+
+Streamlit Documentation
+
+scikit-learn Community
+
+## ⭐ If you found this project useful, consider giving it a star!
