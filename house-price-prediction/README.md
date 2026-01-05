@@ -41,19 +41,22 @@ This project focuses on building a **House Price Prediction Model** using superv
 ---
 
 ## 📁 Project Structure
+```bash
 house-price-prediction/
-├── data/
-│ └── house_prices.csv
-├── notebooks/
-│ └── House_Price_Prediction.ipynb
-├── src/
-│ ├── preprocessing.py
-│ ├── model_training.py
-│ └── evaluation.py
-├── app/
-│ └── streamlit_app.py
+├── static/
+│ └── HOUSE.jpeg
+│ └── JPPY2330-House-Price-Prediction-using-ML.jpg
+│ └── Screenshot 2026-01-05 163212.png
+│ └── readme
+├── templates/
+│ └── index.html
+│ └── readme
+├── Procfile
+├── ML_model.ipynb
+├── app.py
 ├── requirements.txt
 └── README.md
+```
 ---
 
 ## 🚀 How to Run Locally
@@ -75,7 +78,7 @@ house-price-prediction/
 
 4. **(Optional) Run Streamlit App**
     ```bash
-    streamlit run app/streamlit_app.py
+    streamlit run app/app.py
     ```
 
 ---
@@ -96,6 +99,8 @@ house-price-prediction/
 - Build an interactive web dashboard for dynamic inputs.
 
 ---
+
+## Live preview: https://house-price-prediction-11-fnbx.onrender.com/
 
 ## 🙌 Acknowledgements
 - Kaggle Datasets
