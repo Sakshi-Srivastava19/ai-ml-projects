@@ -42,6 +42,7 @@ Each folder represents an **independent project**.
 ## 🧠 Projects Overview
 
 ### 🚗 1. Auctioned Car Price Classification
+
 **📂 Folder:** `auctioned-car`  
 - Built a machine learning model to analyze and classify auctioned used cars  
 - Focused on feature analysis and real-world dataset handling  
@@ -50,8 +51,11 @@ Each folder represents an **independent project**.
 ---
 
 ### 🩺 2. Breast Cancer Prediction
+
 <p align="center"> <img src="breast-cancer-prediction/breast-cancer-prediction/images/app_1.png" width="600"/> </p>
-🔗 Live Demo: [https://breast-cancer-ezcuswhwksvaskj4c4moxh.streamlit.app/](Click)
+
+🔗 Live Demo: [https://breast-cancer-ezcuswhwksvaskj4c4moxh.streamlit.app/](https://breast-cancer-ezcuswhwksvaskj4c4moxh.streamlit.app/)
+
 **📂 Folder:** `breast-cancer-prediction`  
 - Predicts whether a tumor is **Benign or Malignant**
 - Trained using Logistic Regression on the Breast Cancer Wisconsin dataset  
@@ -85,8 +89,11 @@ Each folder represents an **independent project**.
 ---
 
 ### 🏠 5. House Price Prediction
+
 <p align="center"> <img src="house-price-prediction/static/Screenshot 2026-01-05 163212.png" width="600"/> </p>
-🔗 Live Demo: [(https://house-price-prediction-11-fnbx.onrender.com/)](Click)
+
+🔗 Live Demo: [https://house-price-prediction-11-fnbx.onrender.com/](https://house-price-prediction-11-fnbx.onrender.com/)
+
 **📂 Folder:** `house-price-prediction`  
 - Regression-based model to predict house prices  
 - Feature engineering and performance evaluation included  
@@ -95,8 +102,11 @@ Each folder represents an **independent project**.
 ---
 
 ### 🌸 6. Iris Flower Classification
+
 <p align="center"> <img src="iris-flower-classification/static/images/Screenshot 2026-01-05 164515.png" width="600"/> </p>
-🔗 Live Demo: [(https://iris-flower-classification-ml-ncyr.onrender.com/)](Click)
+
+🔗 Live Demo: [https://iris-flower-classification-ml-ncyr.onrender.com/](https://iris-flower-classification-ml-ncyr.onrender.com/)
+
 **📂 Folder:** `iris-flower-classification`  
 - Classic ML classification problem  
 - Predicts iris species using sepal and petal measurements  
@@ -105,6 +115,7 @@ Each folder represents an **independent project**.
 ---
 
 ### 💰 7. Medical Charges Prediction
+
 **📂 Folder:** `Medical_charges`  
 - Predicts medical insurance costs based on personal and health factors  
 - Demonstrates regression and real-world data analysis  
@@ -113,8 +124,10 @@ Each folder represents an **independent project**.
 ---
 
 ### 🎬 8. Movie Recommendation System
+
 <p align="center"> <img src="movie-recommendation/Screenshot 2025-05-14 233111.png" width="600"/> </p>
-🔗 Live Demo: [(https://g6fcmxdylvocwfrgptfq8j.streamlit.app/)](Click)
+
+🔗 Live Demo: [https://g6fcmxdylvocwfrgptfq8j.streamlit.app/](https://g6fcmxdylvocwfrgptfq8j.streamlit.app/)
 
 **📂 Folder:** `movie-recommendation`  
 - Recommends movies based on similarity and user preferences  
@@ -147,6 +160,6 @@ Each folder represents an **independent project**.
 ## 📫 Contact
 
 - **GitHub:** https://github.com/Sakshi-Srivastava19
-- **LinkedIn:** https://linkedin.com/in/your-profile  
+- **LinkedIn:** https://www.linkedin.com/in/sakshi-srivastava-59a3b3313/  
 
 ⭐ If you find this repository helpful, feel free to star it!
