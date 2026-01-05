@@ -1,0 +1,31 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+.glucose_env/
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model files
+*.pkl
+
+# Logs
+*.log
+
+# VSCode/IDE configs
+.vscode/
+.idea/
+
+# Environment files
+.env
